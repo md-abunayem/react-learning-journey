@@ -1,0 +1,17 @@
+.tag{
+    margin-right: 1vw;
+    
+}
+
+.postCard{
+    margin:2rem;
+}
+
+.reactions{
+    margin-top: 1.5rem;
+}
+
+.deleteIcon{
+    color:red;
+    font-size: 2rem;
+}
