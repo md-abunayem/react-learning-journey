@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "What is Artificial Intelligence (AI)?",
+    "description": "AI refers to the simulation of human intelligence in machines that are programmed to think, learn, and make decisions. It encompasses technologies like machine learning, natural language processing, and robotics."
+  },
+  {
+    "id": 2,
+    "title": "How does Machine Learning relate to AI?",
+    "description": "Machine Learning is a subset of AI that allows systems to learn from data and improve their performance over time without being explicitly programmed."
+  },
+  {
+    "id": 3,
+    "title": "What are the types of AI?",
+    "description": "AI is typically categorized into three types: Narrow AI (task-specific), General AI (human-level intelligence), and Superintelligent AI (surpassing human intelligence)."
+  },
+  {
+    "id": 4,
+    "title": "Where is AI used in real life?",
+    "description": "AI is used in many industries, including healthcare (diagnostics), finance (fraud detection), transportation (autonomous vehicles), retail (recommendation engines), and more."
+  },
+  {
+    "id": 5,
+    "title": "Is AI safe?",
+    "description": "AI can be safe if developed and monitored responsibly. However, there are concerns about misuse, bias, and lack of transparency that require ethical and regulatory frameworks."
+  },
+  {
+    "id": 6,
+    "title": "Can AI replace human jobs?",
+    "description": "AI can automate certain tasks, leading to job shifts rather than outright replacement. It often augments human capabilities, but some routine jobs may become obsolete."
+  },
+  {
+    "id": 7,
+    "title": "What programming languages are used in AI?",
+    "description": "Common languages for AI development include Python, R, Java, Julia, and C++. Python is the most widely used due to its extensive libraries and community support."
+  },
+  {
+    "id": 8,
+    "title": "What is deep learning?",
+    "description": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to analyze complex patterns in large amounts of data."
+  },
+  {
+    "id": 9,
+    "title": "What is the difference between AI and automation?",
+    "description": "Automation involves predefined rules for tasks, while AI enables machines to learn and make decisions. AI can power smarter, more adaptive automation systems."
+  },
+  {
+    "id": 10,
+    "title": "How can I start learning AI?",
+    "description": "Start with Python programming, then explore online courses in machine learning, data science, and neural networks. Platforms like Coursera, edX, and Khan Academy are great for beginners."
+  }
+]
