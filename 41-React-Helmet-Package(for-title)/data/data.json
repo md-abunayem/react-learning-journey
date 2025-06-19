@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "AI in Medical Diagnosis",
+    "description": "AI systems are used to assist doctors in diagnosing diseases more accurately and efficiently."
+  },
+  {
+    "id": 2,
+    "title": "AI for Radiology",
+    "description": "AI helps analyze medical images such as X-rays, CT scans, and MRIs to detect abnormalities."
+  },
+  {
+    "id": 3,
+    "title": "Predictive Healthcare with AI",
+    "description": "AI models predict disease outbreaks, patient readmissions, and future health risks based on data."
+  },
+  {
+    "id": 4,
+    "title": "AI in Pathology",
+    "description": "AI assists in detecting cancer and other diseases by analyzing tissue samples digitally."
+  },
+  {
+    "id": 5,
+    "title": "Robot-assisted Surgery",
+    "description": "AI-driven robots perform precise surgical procedures with minimal invasion and error."
+  },
+  {
+    "id": 6,
+    "title": "AI for Drug Discovery",
+    "description": "Machine learning algorithms accelerate drug development by identifying potential compounds faster."
+  },
+  {
+    "id": 7,
+    "title": "AI in Mental Health",
+    "description": "AI-powered chatbots and apps provide initial mental health assessments and therapy suggestions."
+  },
+  {
+    "id": 8,
+    "title": "AI in Genomics",
+    "description": "AI helps analyze genetic data to identify mutations and predict disease susceptibility."
+  },
+  {
+    "id": 9,
+    "title": "Virtual Nursing Assistants",
+    "description": "AI-based virtual assistants offer 24/7 support to patients for routine health queries and reminders."
+  },
+  {
+    "id": 10,
+    "title": "AI in Oncology",
+    "description": "AI aids in cancer detection, staging, and treatment personalization for oncology patients."
+  },
+  {
+    "id": 11,
+    "title": "Natural Language Processing in Medicine",
+    "description": "NLP enables AI to understand clinical notes, research papers, and EHRs for better insights."
+  },
+  {
+    "id": 12,
+    "title": "AI in Emergency Response",
+    "description": "AI systems prioritize emergency cases and help with triage based on severity."
+  },
+  {
+    "id": 13,
+    "title": "AI for Personalized Treatment",
+    "description": "AI uses patient history and genetic information to suggest tailored treatment plans."
+  },
+  {
+    "id": 14,
+    "title": "AI in Ophthalmology",
+    "description": "AI tools analyze eye scans to detect conditions like diabetic retinopathy or glaucoma."
+  },
+  {
+    "id": 15,
+    "title": "Wearable Health Monitoring",
+    "description": "AI processes data from wearables to detect health changes and predict conditions early."
+  },
+  {
+    "id": 16,
+    "title": "AI in Cardiology",
+    "description": "AI detects arrhythmias and other heart conditions from ECGs and imaging data."
+  },
+  {
+    "id": 17,
+    "title": "AI in Dermatology",
+    "description": "AI apps evaluate skin conditions and moles to identify potential skin cancers."
+  },
+  {
+    "id": 18,
+    "title": "Speech Recognition in Healthcare",
+    "description": "AI transcribes doctor-patient conversations and automates clinical documentation."
+  },
+  {
+    "id": 19,
+    "title": "Chatbots for Patient Engagement",
+    "description": "AI chatbots improve communication between healthcare providers and patients."
+  },
+  {
+    "id": 20,
+    "title": "Clinical Decision Support Systems",
+    "description": "AI assists clinicians by recommending diagnoses and treatment based on data."
+  },
+  {
+    "id": 21,
+    "title": "AI in Hospital Management",
+    "description": "AI optimizes hospital operations, including staffing, inventory, and scheduling."
+  },
+  {
+    "id": 22,
+    "title": "AI for Pandemic Tracking",
+    "description": "AI models forecast the spread of infectious diseases like COVID-19 using data analysis."
+  },
+  {
+    "id": 23,
+    "title": "AI and Electronic Health Records",
+    "description": "AI extracts insights from EHRs to support better care and detect patient risks."
+  },
+  {
+    "id": 24,
+    "title": "AI in Rare Disease Diagnosis",
+    "description": "AI helps identify rare diseases that are often misdiagnosed or overlooked."
+  },
+  {
+    "id": 25,
+    "title": "AI in Rehabilitation",
+    "description": "AI-powered systems assist in physical therapy and rehabilitation progress tracking."
+  },
+  {
+    "id": 26,
+    "title": "Ethics of AI in Medicine",
+    "description": "Ethical concerns include data privacy, bias in algorithms, and transparency in AI decisions."
+  },
+  {
+    "id": 27,
+    "title": "AI in Pediatrics",
+    "description": "AI assists in diagnosing and treating childhood illnesses with age-specific models."
+  },
+  {
+    "id": 28,
+    "title": "AI for Medical Education",
+    "description": "AI-powered simulators train medical students and professionals through virtual scenarios."
+  },
+  {
+    "id": 29,
+    "title": "AI for Health Insurance",
+    "description": "AI automates claims processing and detects fraudulent insurance activities."
+  },
+  {
+    "id": 30,
+    "title": "AI in Clinical Trials",
+    "description": "AI improves patient selection and monitors trial data for better outcomes."
+  },
+  {
+    "id": 31,
+    "title": "AI for Anomaly Detection",
+    "description": "AI flags unusual patterns in patient data that may indicate potential health issues."
+  },
+  {
+    "id": 32,
+    "title": "AI and Medical Robotics",
+    "description": "Medical robots powered by AI assist in complex surgeries and rehabilitation."
+  },
+  {
+    "id": 33,
+    "title": "AI in Telemedicine",
+    "description": "AI enhances remote consultations by providing decision support and health monitoring."
+  },
+  {
+    "id": 34,
+    "title": "AI in Nutrition and Diet Planning",
+    "description": "AI apps suggest diet plans based on medical conditions and personal goals."
+  },
+  {
+    "id": 35,
+    "title": "AI in Neurology",
+    "description": "AI tools support diagnosis and treatment of neurological conditions like epilepsy and Parkinson’s."
+  },
+  {
+    "id": 36,
+    "title": "AI for Health Risk Scoring",
+    "description": "AI generates risk scores based on lifestyle and genetic factors to guide preventive care."
+  },
+  {
+    "id": 37,
+    "title": "AI in Geriatric Care",
+    "description": "AI technologies support elderly care through fall detection, reminders, and monitoring."
+  },
+  {
+    "id": 38,
+    "title": "AI in Laboratory Automation",
+    "description": "AI automates lab testing and result analysis for higher accuracy and speed."
+  },
+  {
+    "id": 39,
+    "title": "Federated Learning in Healthcare",
+    "description": "AI learns from decentralized data while preserving patient privacy and compliance."
+  },
+  {
+    "id": 40,
+    "title": "AI for Medical Image Synthesis",
+    "description": "AI generates synthetic medical images to improve training and model accuracy."
+  }
+]
