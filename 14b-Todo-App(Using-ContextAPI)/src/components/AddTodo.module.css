@@ -1,0 +1,44 @@
+.addTodoContainer{
+    background-color:grey;
+    color: #fff;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    padding: 2vh 4vw ;
+    justify-content: center;
+    /* align-items: center; */
+    border-radius: 20px;
+    width: 80vw;
+}
+
+.titleContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2vh;
+}
+
+.titleContainer input{
+    width: 70%;
+    border-radius: 15px;
+}
+
+.descriptionContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3vh;
+
+}
+
+.descriptionContainer textarea{
+    width: 70%;
+    border-radius: 15px;
+}
+
+.submitBtn{
+    width: 45%;
+    border-radius: 10px;
+    color:#ffffff;
+    background-color: rgb(40, 172, 137);
+    margin: 0 auto;
+    border:none;
+}

@@ -1,0 +1,32 @@
+.navbar {
+  height: 80px;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 2rem;
+  gap: 2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  transition: color 0.2s;
+}
+
+.link:hover {
+  color: darkblue;
+}
+
+.active {
+  color: blue;
+  text-decoration: underline;
+}
+
+
+ /* //it is comes with NavLink tag/component */
+nav .active{         
+  color:cyan;
+} 
